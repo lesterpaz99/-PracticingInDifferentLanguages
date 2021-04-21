@@ -1,2 +1,2 @@
-# -PracticingInDifferentLanguages
+# PracticingInDifferentLanguages
 Algorithms in different programming languages
